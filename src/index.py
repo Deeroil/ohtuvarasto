@@ -20,7 +20,5 @@ def main():
     mehua.ota_varastosta(3.14)
     print(f"Mehuvarasto: {mehua}")
 
-    print("Liian pitkä rivi Liian pitkä rivi Liian pitkä rivi Liian pitkä rivi Liian pitkä rivi Liian pitkä rivi")
-
 if __name__ == "__main__":
     main()
